@@ -6,8 +6,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3>🌐 print("Hello, World!") :</h3>
-      # MATEUS FREITAS 👋
-
+      
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgwYWlwczJjNWk2aGQ0NjZqY2Z4eW0xb2hwY25wYnJoZ2UwMW00ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjUGKdds3eGzfBzqJB/giphy.gif" width="600" />
 </p>
