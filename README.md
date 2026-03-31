@@ -36,14 +36,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateusfrmacedo&show_icons=true&theme=transparent&title_color=0077B5&text_color=333&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfrmacedo&layout=compact&theme=transparent&title_color=0077B5&text_color=333&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mateusfrmacedo/mateusfrmacedo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
